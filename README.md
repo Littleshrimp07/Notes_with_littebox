@@ -1,3 +1,5 @@
-# Preface
+# 小盒子专属学习Python笔记
+---
+## Preface
 
-**这个repository是用来测试如何用VSCode云端上传Markdown笔记的**
+这是给小盒子制作的临时在线阅读笔记。
